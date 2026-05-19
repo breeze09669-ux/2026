@@ -1,0 +1,56 @@
+from bs4 import BeautifulSoup as bs
+from selenium import webdriver as  wb
+from selenium.webdriver.common.keys import Keys
+import time
+from urllib.request import urlretrieve
+
+url = 'https://www.google.com/search?q=%ED%8C%8C%EC%9D%B4%EB%A6%AC&source=lnms&tbm=isch&sa=X&ved=2ahUKEwib-qLPrt_nAhXQQN4KHavMDjwQ_AUoAXoECBkQAw&biw=1920&bih=969'
+
+driver = wb.Chrome()
+driver.get(url)
+
+body = driver.find_element_by_tag_name('body')
+btn_more = driver.find_element_by_class_name('mye4qd')
+
+for num in range(100):
+    try:
+        btn_more.click()
+        time.sleep(0.5)
+    except:
+        body.send_keys(Keys.PAGE_DOWN)
+        time.sleep(0.3)
+        
+soup = bs(driver.page_source, 'lxml')
+    
+img =soup.select('img.rg_i')
+
+img[2]['src']
+
+
+img_src = []
+
+for i in img:
+    try:
+        img_temp = i['src']
+        img_src.append(img_temp)
+    except:
+        try:
+            img_temp = i['data-src']
+            img_src.append(img_temp)
+        except:
+            continue
+            
+file_no = 0
+
+for j in range(len(img_src)):
+
+    try:
+        urlretrieve(img_src[j], 'C:\\Users\\SM009\\Desktop\\img/' + str(file_no) + '.jpg')
+        # \를 2개씩으로 바꿈
+    except:
+        continue
+        
+    file_no += 1
+    time.sleep(2)
+    
+    print("%s번째 사진 저장중입니다."%file_no)

@@ -1,0 +1,41 @@
+from bs4 import BeautifulSoup as bs
+from selenium import webdriver as wb
+import time
+from urllib.request import urlretrieve # 이미지경로를 파일로 저장
+from selenium.webdriver.common.keys import Keys
+
+url = 'https://search.naver.com/search.naver?where=image&sm=tab_jum&query=%EA%BC%AC%EB%A0%9B'
+
+driver = wb.Chrome()
+driver.get(url)
+
+body = driver.find_element_by_tag_name('body')
+
+for num in range(50):
+    body.send_keys(Keys.PAGE_DOWN)
+    time.sleep(0.3)
+    
+soup = bs(driver.page_source, 'lxml')
+
+img_src = soup.select('img._img')
+time.sleep(2)
+
+img_src2 = []
+
+for i in img_src :
+    img_src1 = i['src']
+    img_src2.append(img_src1)
+
+file_no = 0
+
+for i in range(len(img_src2)):
+    
+    try:
+        urlretrieve(img_src2[i], './img/' + str(file_no) + '.jpg')
+    except :
+        continue
+    
+    file_no += 1
+    time.sleep(2)
+    
+    print('%s번째 사진 저장중입니다.'%file_no)
