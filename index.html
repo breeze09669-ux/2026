@@ -6414,7 +6414,7 @@ const app = {
   ],
 
 		  init() {
-		    const storedChars = localStorage.getItem('kiosk_chars_v10');
+		    const storedChars = localStorage.getItem('kiosk_chars_v11');
 		    if (storedChars) { this.characters = JSON.parse(storedChars); }
 		    const naverRestaurants = Array.isArray(window.NAVER_WKU_RESTAURANTS) ? window.NAVER_WKU_RESTAURANTS : [];
 		    const stored = localStorage.getItem("restaurants_v15");
@@ -6523,7 +6523,7 @@ const app = {
   },
 
   saveData() { localStorage.setItem("restaurants_v15", JSON.stringify(this.data)); },
-  saveCharacters() { localStorage.setItem('kiosk_chars_v10', JSON.stringify(this.characters)); },
+  saveCharacters() { localStorage.setItem('kiosk_chars_v11', JSON.stringify(this.characters)); },
   
   changeTheme(theme) {
     this.currentTheme = theme; document.documentElement.setAttribute('data-theme', theme); localStorage.setItem("theme_preference", theme);
