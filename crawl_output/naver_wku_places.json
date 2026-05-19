@@ -1,0 +1,1149 @@
+{
+  "captured_at": "2026-05-17T17:12:34+09:00",
+  "source": "Naver Map / Place search responses",
+  "center": {
+    "name": "원광대학교",
+    "lat": 35.96944,
+    "lng": 126.95735
+  },
+  "query_meta": [
+    {
+      "query": "원광대학교 음식점",
+      "url": "https://map.naver.com/p/api/search/allSearch?query=%EC%9B%90%EA%B4%91%EB%8C%80%ED%95%99%EA%B5%90+%EC%9D%8C%EC%8B%9D%EC%A0%90&type=all&searchCoord=127.461497%3B36.328169&boundary=&sscode=svc.mapv5.search&token=_Qktc_fNOVK5s0YfMp4ojrYxifcQvgjNQ4use_4kUkA%3D",
+      "page": 1,
+      "total_count": 920,
+      "feedback": [
+        "<strong>'원광대학교'</strong>",
+        "근처 <strong>'음식점'</strong>"
+      ],
+      "boundary": [
+        "126.9547148",
+        "35.9740080",
+        "126.9628529",
+        "35.9619776"
+      ]
+    },
+    {
+      "query": "원광대학교 카페",
+      "url": "https://map.naver.com/p/api/search/allSearch?query=%EC%9B%90%EA%B4%91%EB%8C%80%ED%95%99%EA%B5%90+%EC%B9%B4%ED%8E%98&type=all&searchCoord=127.461497%3B36.328169&boundary=&sscode=svc.mapv5.search&token=SZNqNnpo1K1PFYm-NyVQ_ARV1euuznJ2tyh0Mia_BqY%3D",
+      "page": 1,
+      "total_count": 275,
+      "feedback": [
+        "<strong>'원광대학교'</strong>",
+        "근처 <strong>'카페'</strong>"
+      ],
+      "boundary": [
+        "126.9559863",
+        "35.9740080",
+        "126.9640152",
+        "35.9627275"
+      ]
+    },
+    {
+      "query": "원광대 음식점",
+      "url": "https://map.naver.com/p/api/search/allSearch?query=%EC%9B%90%EA%B4%91%EB%8C%80+%EC%9D%8C%EC%8B%9D%EC%A0%90&type=all&searchCoord=127.461497%3B36.328169&boundary=&sscode=svc.mapv5.search&token=qsUY9Al3sTWuD7fQE-JjOu-Ssg93qvLYSg9RvtG_o1c%3D",
+      "page": 1,
+      "total_count": 920,
+      "feedback": [
+        "<strong>'원광대학교'</strong>",
+        "근처 <strong>'음식점'</strong>"
+      ],
+      "boundary": [
+        "126.9547148",
+        "35.9740080",
+        "126.9628529",
+        "35.9619776"
+      ]
+    },
+    {
+      "query": "원광대 카페",
+      "url": "https://map.naver.com/p/api/search/allSearch?query=%EC%9B%90%EA%B4%91%EB%8C%80+%EC%B9%B4%ED%8E%98&type=all&searchCoord=127.461497%3B36.328169&boundary=&sscode=svc.mapv5.search&token=z4NOrhs0RrOj6kglb7ElHCo5vJpMNIVaiymI62QhCww%3D",
+      "page": 1,
+      "total_count": 275,
+      "feedback": [
+        "<strong>'원광대학교'</strong>",
+        "근처 <strong>'카페'</strong>"
+      ],
+      "boundary": [
+        "126.9559863",
+        "35.9740080",
+        "126.9640152",
+        "35.9627275"
+      ]
+    },
+    {
+      "query": "원광대 맛집",
+      "url": "https://map.naver.com/p/api/search/allSearch?query=%EC%9B%90%EA%B4%91%EB%8C%80+%EB%A7%9B%EC%A7%91&type=all&searchCoord=127.461497%3B36.328169&boundary=&sscode=svc.mapv5.search&token=4Ma7asahDd7IY51rkDA5lTFO9AkcTeJ1XzoIUs3TonY%3D",
+      "page": 1,
+      "total_count": 920,
+      "feedback": [
+        "<strong>'원광대학교'</strong>",
+        "근처 <strong>'맛집'</strong>"
+      ],
+      "boundary": [
+        "126.9547148",
+        "35.9740080",
+        "126.9628529",
+        "35.9619776"
+      ]
+    }
+  ],
+  "count": 28,
+  "places": [
+    {
+      "id": "1981144346",
+      "name": "블루포트 원광대학교 새천년관점",
+      "type": "cafe",
+      "categories": [
+        "음식점",
+        "카페,디저트"
+      ],
+      "road_address": "전북특별자치도 익산시 익산대로 460 새천년관 1층",
+      "address": "전북특별자치도 익산시 신동 272 새천년관 1층",
+      "phone": "",
+      "lat": 35.9705123,
+      "lng": 126.958474,
+      "distance_m": 156,
+      "business_status": "",
+      "business_status_detail": "",
+      "business_hours": "",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 4,
+      "place_review_count": 1,
+      "menu_exists": true,
+      "menu_info": "아메리카노 2,100 | 스페셜 아메리카노 3,100 | 디카페인 아메리카노 3,100 | (NEW) 캐모마일핑크리치 3,800 | (NEW) 페퍼민트라임 3,800 | (NEW) 그린청귤깔라만시 3,800 | (NEW) 히비스커스 패션프룻 3,200",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20260409_109/1775709882873tzujN_PNG/%C0%FC%C3%BC_%B7%CE%B0%ED%BB%E7%C1%F8_260409.png",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20260409_109/1775709882873tzujN_PNG/%C0%FC%C3%BC_%B7%CE%B0%ED%BB%E7%C1%F8_260409.png",
+        "https://ldb-phinf.pstatic.net/20260409_205/17757241404999z5Fi_PNG/%C0%FC%C3%BC_%B8%AE%C7%C1%B7%B9%BD%C3%C6%BC_260409.png",
+        "https://ldb-phinf.pstatic.net/20260409_65/1775724144164UBdFj_PNG/%C0%FC%C3%BC_%C8%F7%BA%F1%BD%BA%C4%BF%BD%BA%C6%BC_260409.png"
+      ],
+      "homepage": "http://www.bluepot.kr/",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1981144346",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1981144346/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1725441065",
+      "name": "9커피",
+      "type": "cafe",
+      "categories": [
+        "음식점",
+        "카페,디저트"
+      ],
+      "road_address": "전북특별자치도 익산시 익산대로76길 107-3 9커피",
+      "address": "전북특별자치도 익산시 신용동 18-2 9커피",
+      "phone": "0507-1429-0441",
+      "lat": 35.9720996,
+      "lng": 126.9596057,
+      "distance_m": 359,
+      "business_status": "오늘 휴무",
+      "business_status_detail": "매주 일요일 휴무",
+      "business_hours": "",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 11,
+      "place_review_count": 265,
+      "menu_exists": true,
+      "menu_info": "시그니처커피 3,300 | 수박음료(여름) 변동가격(업주문의) | 딸기음료(봄) 변동가격(업주문의) | 바스크치즈케익 변동가격(업주문의) | 버블티 3,900 | 라떼 3,500 | 에이드 3,800 | 치즈프라페 4,000 | 요거트 3,500 | 담백한 차 3,000 | 달달한 차 3,000 | 쉐이크 3,900 | 밀크쉐이크 3,000 | 프라페 4,000 | 생과일 쥬스 3,500 | 스무디 3,000 | 아이스티 2,500 | 아메리카노 2,000",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20240112_155/17050690635789fJhw_JPEG/20240112_180635.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20240112_155/17050690635789fJhw_JPEG/20240112_180635.jpg",
+        "https://ldb-phinf.pstatic.net/20240112_80/1705069063761E93V8_JPEG/20240112_180511.jpg",
+        "https://ldb-phinf.pstatic.net/20240112_215/1705069063794AN6Ix_JPEG/20240112_180810.jpg"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1725441065",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1725441065/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1936673605",
+      "name": "투썸플레이스 익산원광대병원점",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "카페"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 895 원광대학교병원 병동 2관 1층",
+      "address": "전북특별자치도 익산시 신동 272 원광대학교병원 병동 2관 1층",
+      "phone": "063-841-2388",
+      "lat": 35.965555,
+      "lng": 126.9602981,
+      "distance_m": 507,
+      "business_status": "영업 종료",
+      "business_status_detail": "17:00에 영업종료",
+      "business_hours": "202605170900~202605171700",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 8,
+      "place_review_count": 268,
+      "menu_exists": true,
+      "menu_info": "바닐라라떼 5,700 | 카페라떼 5,200 | 떠먹는아박 6,800 | 스초생 39,000 | 아메리카노 4,700",
+      "thumbnail_url": "",
+      "thumbnail_urls": [],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1936673605",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1936673605/home",
+      "source_queries": [
+        "원광대학교 카페",
+        "원광대 카페"
+      ]
+    },
+    {
+      "id": "36439473",
+      "name": "파리바게뜨 원광대병원점",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "베이커리"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 895 원광대병원 종합건강증진센터 1층",
+      "address": "전북특별자치도 익산시 신동 272 원광대병원 종합건강증진센터 1층",
+      "phone": "063-852-8208",
+      "lat": 35.9655489,
+      "lng": 126.9603415,
+      "distance_m": 510,
+      "business_status": "영업 중",
+      "business_status_detail": "22:30에 영업종료",
+      "business_hours": "202605170730~202605172230",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 7,
+      "place_review_count": 743,
+      "menu_exists": true,
+      "menu_info": "",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20220413_198/1649841292803ny64T_PNG/image.png",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20220413_198/1649841292803ny64T_PNG/image.png"
+      ],
+      "homepage": "https://www.paris.co.kr/",
+      "naver_map_url": "https://map.naver.com/p/entry/place/36439473",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/36439473/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1318919598",
+      "name": "오아시스",
+      "type": "cafe",
+      "categories": [
+        "음식점",
+        "카페,디저트"
+      ],
+      "road_address": "전북특별자치도 익산시 익산대로76길 88",
+      "address": "전북특별자치도 익산시 신용동 7-1",
+      "phone": "063-833-8787",
+      "lat": 35.9724699,
+      "lng": 126.9616633,
+      "distance_m": 514,
+      "business_status": "영업 중",
+      "business_status_detail": "20:20에 라스트오더",
+      "business_hours": "202605171100~202605172100",
+      "break_time": "",
+      "last_order": "202605172020",
+      "review_count": 255,
+      "place_review_count": 397,
+      "menu_exists": true,
+      "menu_info": "오아시스 A세트 39,000 | 마르게리따 18,000 | 말차라떼 6,000 | 초코라떼 6,000 | 콜라 에이드 2,500 | 제로콜라 에이드 2,500 | 사이다 에이드 2,500 | 에스프레소 3,500 | 바닐라라떼 5,000 | 카페라떼 4,500 | 히말라야쏠티 카라멜크림라떼 6,000 | 얼그레이 헤이즐넛 크림라떼 6,000 | 아메리카노 4,000 | 베이비딸기크림라떼 6,000 | 헤이즐넛슈페너 5,500 | 떡볶이 7,000 | 샐러드 7,000",
+      "thumbnail_url": "https://naverbooking-phinf.pstatic.net/20250728_40/1753713313970GBK4b_PNG/Gemini_Generated_Image_673tw6673tw6673t.png",
+      "thumbnail_urls": [
+        "https://naverbooking-phinf.pstatic.net/20250728_40/1753713313970GBK4b_PNG/Gemini_Generated_Image_673tw6673tw6673t.png",
+        "https://naverbooking-phinf.pstatic.net/20250523_1/1747954796668lQhwT_PNG/thumb_%2813%29.png",
+        "https://naverbooking-phinf.pstatic.net/20260516_277/1778890337255Lp4M2_JPEG/image.jpg"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1318919598",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1318919598/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1272834630",
+      "name": "베블",
+      "type": "cafe",
+      "categories": [
+        "음식점",
+        "카페,디저트"
+      ],
+      "road_address": "전북특별자치도 익산시 익산대로74길 11-2 1층",
+      "address": "전북특별자치도 익산시 신용동 333-173 1층",
+      "phone": "0507-1355-6663",
+      "lat": 35.974008,
+      "lng": 126.9559863,
+      "distance_m": 523,
+      "business_status": "영업 중",
+      "business_status_detail": "18:50에 라스트오더",
+      "business_hours": "202605171200~202605171900",
+      "break_time": "",
+      "last_order": "202605171850",
+      "review_count": 11,
+      "place_review_count": 24,
+      "menu_exists": true,
+      "menu_info": "냉율무라떼 3,500 | 아메리카노 2,500 | 카페라떼 3,000 | 청포도스무디 3,500 | 자몽스무디 3,500",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20230424_132/1682298942114d9ikM_JPEG/IMG_5037.jpeg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20230424_132/1682298942114d9ikM_JPEG/IMG_5037.jpeg",
+        "https://ldb-phinf.pstatic.net/20230424_145/1682298842916WK3ei_JPEG/IMG_5027.jpeg",
+        "https://ldb-phinf.pstatic.net/20230423_157/1682252536676uJB1P_JPEG/IMG_4205.jpeg"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1272834630",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1272834630/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "37741932",
+      "name": "파노파니",
+      "type": "restaurant",
+      "categories": [
+        "음식점",
+        "양식"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 861 파노파니 레스토랑",
+      "address": "전북특별자치도 익산시 신동 328-23 파노파니 레스토랑",
+      "phone": "063-853-5533",
+      "lat": 35.9652053,
+      "lng": 126.9547148,
+      "distance_m": 527,
+      "business_status": "영업 중",
+      "business_status_detail": "20:00에 라스트오더",
+      "business_hours": "202605171000~202605172100",
+      "break_time": "202605171430~202605171700",
+      "last_order": "202605172000",
+      "review_count": 74,
+      "place_review_count": 234,
+      "menu_exists": true,
+      "menu_info": "살치살 스테이크 69,000 | 라자냐 ( 1일 10개 한정 ) 23,000 | 라구 볼로네제 파파델리 파스타 22,000 | 크림 볼로네제 파케리 파스타 22,000 | 봉골레 링귀니 파스타 18,000 | 고르곤 시금치 크림 링귀니 파스타 18,000 | 라구 버섯 리소토 22,000 | 바질페스토 감베리 필라프 18,000 | 팟타이 감베리 필라프 18,000 | 목살 필라프 18,000 | 루꼴라 프로슈토 피자 20,000 | 치즈롤 돈까스 19,000 | 매운 치즈롤 돈까스 19,000 | 버섯샐러드 22,000 | 수제 리코타치즈 샐러드 19,000 | 핸드드립 6,000~12,000 | 아메리카노 5,000 | 카페라떼 5,500 | 아포카토 7,000",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20240424_222/1713961907877XuuKH_JPEG/IMG_1840.jpeg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20240424_222/1713961907877XuuKH_JPEG/IMG_1840.jpeg",
+        "https://ldb-phinf.pstatic.net/20240424_185/1713961908519P88zY_JPEG/IMG_1839.jpeg",
+        "https://ldb-phinf.pstatic.net/20240424_141/1713961908553WUEiG_JPEG/IMG_1843.jpeg"
+      ],
+      "homepage": "https://www.instagram.com/pano_pani/",
+      "naver_map_url": "https://map.naver.com/p/entry/place/37741932",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/37741932/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대 음식점",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1107308415",
+      "name": "공차 원광대병원점",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "차"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 895 외래3관 2층",
+      "address": "전북특별자치도 익산시 신동 272 외래3관 2층",
+      "phone": "0507-1431-7111",
+      "lat": 35.9646388,
+      "lng": 126.9595793,
+      "distance_m": 570,
+      "business_status": "오늘 휴무",
+      "business_status_detail": "05/17 휴무",
+      "business_hours": "",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 5,
+      "place_review_count": 132,
+      "menu_exists": true,
+      "menu_info": "블랙밀크티+펄 5,100",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20230613_288/1686653535634o3xpa_JPEG/1686653493310-0.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20230613_288/1686653535634o3xpa_JPEG/1686653493310-0.jpg",
+        "https://ldb-phinf.pstatic.net/20230613_70/1686653659389CGtmX_JPEG/1686653493310-1.jpg",
+        "https://ldb-phinf.pstatic.net/20230613_166/1686653670973Cmo7e_JPEG/1686653493310-3.jpg"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1107308415",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1107308415/home",
+      "source_queries": [
+        "원광대학교 카페",
+        "원광대 카페"
+      ]
+    },
+    {
+      "id": "37259329",
+      "name": "그날애 김밥판다 원대점",
+      "type": "restaurant",
+      "categories": [
+        "분식",
+        "종합분식"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 876",
+      "address": "전북특별자치도 익산시 신동 761-26",
+      "phone": "063-858-7654",
+      "lat": 35.9642446,
+      "lng": 126.9559516,
+      "distance_m": 591,
+      "business_status": "영업 중",
+      "business_status_detail": "22:50에 라스트오더",
+      "business_hours": "202605170600~202605172330",
+      "break_time": "202605171500~202605171600",
+      "last_order": "202605172250",
+      "review_count": 42,
+      "place_review_count": 1055,
+      "menu_exists": true,
+      "menu_info": "흑미김밥 3,000 | 고기만두 4,000 | 제육덮밥 7,500 | 참치김밥 4,000 | 김치만두 4,000 | 엉터리김밥 3,500 | 고추김밥 4,000 | 치즈김밥 4,000 | 김치김밥 4,000 | 샐러드김밥 4,000 | 돈까스김밥 4,000 | 고추참치김밥 4,500 | 참치김치김밥 4,500 | 소고기김밥 4,500 | 새우김밥 4,500 | 라면 4,500 | 떡라면 5,000 | 김치라면 5,000 | 만두라면 5,000 | 치즈라면 5,000 | 참뽕라면 6,000 | 우동 4,000 | 김치우동 5,000 | 오뎅 4,500 | 떡볶이 5,000 | 치즈떡볶이 5,000 | 모듬떡볶이 5,000 | 라볶이 4,500 | 치즈라볶이 5,500 | 모듬라볶이 5,500 | 탕수육 5,000 | 갈비만두 5,000 | 모듬만두 5,500 | 물만두 4,000 | 군만두 4,500 | 만두국 6,000 | 떡만두국 6,000 | 떡국 6,000 | 왕 돈까스 8,000 | 치즈돈까스 8,000 | 고구마돈까스 8,000 | 떡갈비 8,000 | 쫄면 6,000 | 칼국수 6,500 | 잔치국수 6,500 | 비빔국수 6,500 | 물냉면 6,500 | 비빔냉면 6,500 | 손수제비 7,000 | 들깨손수제비 7,500",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20250704_4/1751631042748RMBdw_JPEG/24583.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20250704_4/1751631042748RMBdw_JPEG/24583.jpg"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/37259329",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/37259329/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대 음식점",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1057976333",
+      "name": "버거킹 원광대점",
+      "type": "restaurant",
+      "categories": [
+        "양식",
+        "햄버거"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 893",
+      "address": "전북특별자치도 익산시 신동 272",
+      "phone": "063-851-0111",
+      "lat": 35.9641441,
+      "lng": 126.9579091,
+      "distance_m": 591,
+      "business_status": "영업 중",
+      "business_status_detail": "22:00에 영업종료",
+      "business_hours": "202605171000~202605172200",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 48,
+      "place_review_count": 2049,
+      "menu_exists": true,
+      "menu_info": "통새우와퍼주니어세트 7,800 | 통새우와퍼세트 10,400 | 와퍼세트 9,600 | 콰트로치즈와퍼세트 10,400 | 치즈와퍼세트 10,200 | 와퍼주니어세트 7,200 | 불고기와퍼주니어 7,200 | 콰트로치즈와퍼주니어세트 7,800 | 치즈와퍼주니어세트 7,500 | 프렌치프라이(R)~(L) 2,300~2,800 | 리얼 어니언링 2,800 | 너켓킹(4~10조각) 2,300~5,600",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20180403_296/1522728693096WfMT6_JPEG/XYxmhiiOC6neWl_b_SQJFN3_.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20180403_296/1522728693096WfMT6_JPEG/XYxmhiiOC6neWl_b_SQJFN3_.jpg",
+        "https://ldb-phinf.pstatic.net/20180403_67/1522728709501Lebp1_JPEG/hBZGz_Ru0xDKdGzl4_jYjRTO.jpg",
+        "https://ldb-phinf.pstatic.net/20180403_212/1522728722809sEzqy_JPEG/UgfFr8usxIbDMAggnd7rEOaO.jpg"
+      ],
+      "homepage": "http://www.burgerking.co.kr",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1057976333",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1057976333/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대 음식점",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1220314397",
+      "name": "디저트39 익산 원광대점",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "카페"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 884 1층",
+      "address": "전북특별자치도 익산시 신동 762-9 1층",
+      "phone": "070-4797-4924",
+      "lat": 35.9640092,
+      "lng": 126.9566809,
+      "distance_m": 607,
+      "business_status": "영업 중",
+      "business_status_detail": "새벽 02:00에 영업종료",
+      "business_hours": "202605171100~202605172600",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 44,
+      "place_review_count": 179,
+      "menu_exists": true,
+      "menu_info": "양즈깐루 컵빙수 7,800 | 우베 컵빙수 6,800 | 내가 진짜 우베라떼 I.V 5,500 | 우베라떼 I.V 4,500 | 치즈 프로마쥬 우베 코코넛 카페라떼 6,800 | 우베 말차 라떼 I.V 5,800 | 우베 딸기 라떼 I.V 5,800 | 우베 버블 프라페 I.V 6,400 | 수박 스무디 6,100 | 복숭아 히비스커스티 블랜딩 I.V 3,800 | 복숭아 스무디 4,800 | 벚꽃 블라썸 에이드 슈퍼size 5,800 | 로투스 비스코프 라떼 4,800 | 로투스 비스코프 프라페 5,800 | 아메리카노 (2샷) 2,900 | 바닐라라떼 4,800 | 돌체라떼 4,800 | 카라멜 마끼아또 4,800 | 카페모카 4,800 | 아인슈페너 5,400 | 아인슈페너 라떼 6,400 | 착한 콜드브루 1,900 | 돌체 콜드브루 4,800 | 바닐라크림 콜드브루 4,800 | 0칼로리 복숭아 아이스티 2,300 | 복숭아 아이스티 코코넛 젤리 2,800 | 딸기 라떼 4,800 | 딸기 요거트 라떼 5,800 | 리얼 생초코라떼 5,300 | 블루베리 라떼 4,500 | 프리미엄 로얄 밀크티 4,800 | 프리미엄 타로 라떼 5,800 | 17곡 영양 선식(프리미엄 미숫가루) 4,800 | 제주말차라떼 4,400 | 치즈 프로마쥬 제주말차라떼 4,800 | 흑임자 크림라떼(대용량) 4,800 | 초코 퐁 라떼 3,800 | 흑당 퐁 라떼 3,800 | 바나나우유 라떼 2,800 | 버블 흑당 밀크티(대용량) 5,200 | 0칼로리 청포도 캐모마일티 블랜딩 2,900 | 0칼로리 허니자몽블랙티 블랜딩 4,800 | 애사비 0칼로리 청사과 탄산수 4,800 | 0칼로리 샹그리아 4,800 | 자바칩 프라페 5,500 | 딸기 스무디 5,100 | 딸기 크림 프라페 5,900 | 딸기 요거트 스무디 6,400 | 망고 스무디 5,100 | 망고 요거트 스무디 6,400 | 청포도 스무디 5,100 | 플레인 요거트 스무디 6,400 | 정말 맛있는 자바칩 프로틴 쉐이크 7,800 | 정말 맛있는 프로틴 17곡 영양선식 5,800 | 정말 맛있는 프로틴 돌체라떼 6,800 | 정말 맛있는 흑임자 프로틴 쉐이크 7,800 | 정말 맛있는 프로틴 바나나 라떼 4,800 | 0칼로리 뱅쇼 4,800 | 히비스커스티 3,900 | 캐모마일티 3,900 | 블랙퍼스트티 3,900 | 유자티 3,900 | 내가 진짜 우베버터떡 SET 7,800 | 내가 진짜 버터떡 SET 7,500 | 내가 진짜 바질 버터떡 SET 7,800 | 우베 크로칸슈 5,300 | 커스타드 크로칸슈 4,900 | 크림치즈 크로칸슈 4,900 | 제주 말차 크로칸슈 5,800 | 내가 진짜 두쫀쿠 7,800 | 로투스 비스코프 두쫀쿠 5,800 | 오믈렛(커스터드/우유크림/녹차/초코) 1,000 | 오리지널 /녹차 도쿄롤 5,600 | 화이트 초코 도쿄롤 5,600 | 망고 도쿄롤 5,600 | 프렌치 쿠키 슈(순수 우유크림) 4,200 | 프렌치 쿠키 슈(밀크 크림치즈) 4,200 | 프렌치 쿠키 슈(완전 커스타드) 4,200 | 프렌치 쿠키 슈 (밀크쇼콜라) 4,200 | 도넛 (순수우유) 3,500 | 도넛 (바닐라) 3,500 | 도넛 (순수우유 팥) 3,500 | 미니 깨찰빵 (우유크림/커스터드) 3,200 | 프렌치 버터 소금식빵 4,800 | 모찌 소금식빵 5,800 | 말차크림 소금식빵 5,800 | 진짜 맛있는 찹쌀 핫도그 3,500 | 페스츄리 호두과자 (5개입) 5,800 | 더바삭 소금빵 3,800 | 아몬드 크루아상 4,500 | 소시지 크루아상 4,800 | 초코 크루아상 4,800 | 옥수수 중독빵 2,900 | 링고 파이 5,200 | 소프트 플레인 스콘 (딸기잼 포함) 4,300 | 소프트 얼그레이 스콘 (딸기잼 포함) 4,600 | 플레인 베이글 2,900 | 무화과 베이글 3,500 | 치즈 베이글 3,800 | 플레인 크림치즈(50g) 1,900 | 쿠키 1,900 | 프렌치 마카롱 2,800 | 이탈리안 오리지널 티라미수 9,800 | 쿠키앤크림 티라미수 10,500 | 인절미 오리지널 티라미수 10,500 | 저당 도쿄롤(s) 5,600 | 저당 크림치즈 크로칸슈 4,900 | 저당 티라미수 11,500 | 저당 바스크 치즈 케익 12,800 | 순수 우유 케익 6,500 | 당근 케익 6,800 | 레드 벨벳 케익 6,800 | 커스타드 슈크림(더블 크레이프) 7,500 | 내가 진짜 생초코 크레이프 7,500 | 티라미수 크레이프 7,500 | 쿠키앤크림 크레이프 7,500 | 완전 부드러운 오리지널 치즈 케익 6,800 | 정말 맛있는 순수 우유 고구마 케익 6,300 | 스페셜 월드 케익 변동가격(업주문의) | 추억의 학교 앞 떡볶이 3,900",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20260512_258/1778572515573LJ9w5_JPEG/%BF%EC%BA%A3_%B5%F0%C0%FA%C6%AE_2%C1%BE_A4_%B0%A1%B0%DD%28X%29_out11.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20260512_258/1778572515573LJ9w5_JPEG/%BF%EC%BA%A3_%B5%F0%C0%FA%C6%AE_2%C1%BE_A4_%B0%A1%B0%DD%28X%29_out11.jpg",
+        "https://ldb-phinf.pstatic.net/20260506_277/1778058000132PLWTX_JPEG/%C4%C5%BA%F9%BC%F62%C1%BE_%B0%A1%B0%DD%BE%F8%C0%BD_A411.jpg",
+        "https://ldb-phinf.pstatic.net/20260414_208/1776127573875EyU56_JPEG/2.%BF%EC%BA%A3%C0%BD%B7%E16%C1%BE_%C6%F7%BD%BA%C5%CD_A4_1%B4%EB1.jpg"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1220314397",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1220314397/home",
+      "source_queries": [
+        "원광대학교 카페",
+        "원광대 카페"
+      ]
+    },
+    {
+      "id": "13133585",
+      "name": "한솥도시락 익산원광대점",
+      "type": "restaurant",
+      "categories": [
+        "음식점",
+        "도시락,컵밥"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 884",
+      "address": "전북특별자치도 익산시 신동 762-9",
+      "phone": "063-851-8001",
+      "lat": 35.9640006,
+      "lng": 126.9567503,
+      "distance_m": 607,
+      "business_status": "오늘 휴무",
+      "business_status_detail": "매주 일요일 휴무",
+      "business_hours": "",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 19,
+      "place_review_count": 312,
+      "menu_exists": true,
+      "menu_info": "빅치킨마요 4,600 | 진달래 8,800 | 왕카레돈까스 덮밥 6,700 | 돈까스도련님 5,200 | 돈까스 카레 5,100 | 치킨제육 5,500 | 동백 6,700 | 새치 고기고기 7,800",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20250430_188/1745996348711AwNEN_JPEG/%B7%CE%B0%ED_1.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20250430_188/1745996348711AwNEN_JPEG/%B7%CE%B0%ED_1.jpg",
+        "https://ldb-phinf.pstatic.net/20260430_198/1777534235457U7elo_JPEG/%B3%D7%C0%CC%B9%F6-%C3%BB%BE%E7-%BC%D2%BA%B8%B7%CE-%B5%A4%B9%E4.jpg",
+        "https://ldb-phinf.pstatic.net/20260430_222/1777534235451NiovB_JPEG/%B3%D7%C0%CC%B9%F6-%B2%DC%C4%A1%C1%EE%BD%BA%C6%BD.jpg"
+      ],
+      "homepage": "http://www.hsd.co.kr",
+      "naver_map_url": "https://map.naver.com/p/entry/place/13133585",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/13133585/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대 음식점",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1674334882",
+      "name": "스타벅스 익산원광대점",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "카페"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 888 (신동)",
+      "address": "전북특별자치도 익산시 신동 762-17",
+      "phone": "1522-3232",
+      "lat": 35.963864,
+      "lng": 126.957091,
+      "distance_m": 620,
+      "business_status": "영업 중",
+      "business_status_detail": "22:00에 영업종료",
+      "business_hours": "202605170800~202605172200",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 15,
+      "place_review_count": 18,
+      "menu_exists": true,
+      "menu_info": "카페 아메리카노 4,700 | 카페 라떼 5,200 | 스타벅스 돌체 라떼 6,100 | 카라멜 마키아또 6,100 | 카푸치노 5,200 | 카페 모카 5,700 | 화이트 초콜릿 모카 6,100 | 콜드 브루 5,100 | 자몽 허니 블랙 티 5,900 | 아이스 자몽 허니 블랙 티 5,900 | 망고 바나나 블렌디드 6,600 | 에스프레소 프라푸치노 5,700 | 자바 칩 프라푸치노 6,500",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20190828_93/1566953601239OT9MQ_PNG/xX7Wv642gXMoTI0DAv0hRymS.png",
+        "https://naverbooking-phinf.pstatic.net/20251219_201/17660874266389CR7f_JPEG/image.jpg"
+      ],
+      "homepage": "http://www.starbucks.co.kr/",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1674334882",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1674334882/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "38494234",
+      "name": "쥬씨 익산원광대점",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "과일,주스전문점"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 890",
+      "address": "전북특별자치도 익산시 신동 762-18",
+      "phone": "0507-1412-6632",
+      "lat": 35.9638468,
+      "lng": 126.9573294,
+      "distance_m": 622,
+      "business_status": "영업 중",
+      "business_status_detail": "새벽 00:00에 영업종료",
+      "business_hours": "202605170900~202605172400",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 27,
+      "place_review_count": 473,
+      "menu_exists": true,
+      "menu_info": "[패스오더전용] 100원 아메리카노 100 | 커피 1,000",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20190131_190/1548918263266siXHj_JPEG/etoh4bIEHBggDLlvOV-xfTU7.jpeg.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20190131_190/1548918263266siXHj_JPEG/etoh4bIEHBggDLlvOV-xfTU7.jpeg.jpg"
+      ],
+      "homepage": "https://100원커피이벤트-선착순주문하기.com",
+      "naver_map_url": "https://map.naver.com/p/entry/place/38494234",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/38494234/home",
+      "source_queries": [
+        "원광대학교 카페",
+        "원광대 카페"
+      ]
+    },
+    {
+      "id": "11825166",
+      "name": "롯데리아 원광대점",
+      "type": "restaurant",
+      "categories": [
+        "양식",
+        "햄버거"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로4길 1",
+      "address": "전북특별자치도 익산시 신동 763-1",
+      "phone": "063-832-0498",
+      "lat": 35.963762,
+      "lng": 126.9575596,
+      "distance_m": 632,
+      "business_status": "영업 중",
+      "business_status_detail": "새벽 02:00에 영업종료",
+      "business_hours": "202605170800~202605172600",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 22,
+      "place_review_count": 1237,
+      "menu_exists": true,
+      "menu_info": "더블 한우불고기 13,000~14,900 | 핫크리스피버거 6,200~8,300 | 리아 불고기 더블 7,600~9,600 | 데리버거 3,700~6,100 | 리아 새우 5,000~7,300 | 한우불고기버거 9,000~10,900 | 리아 불고기 5,000~7,300",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20240923_185/1727052511572Vxuh6_JPEG/1.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20240923_185/1727052511572Vxuh6_JPEG/1.jpg",
+        "https://ldb-phinf.pstatic.net/20240923_27/17270525114906lSCR_JPEG/2_%B8%AE%BE%C6_%BA%D2%B0%ED%B1%E2.jpg",
+        "https://ldb-phinf.pstatic.net/20240923_187/1727052511483mf07o_JPEG/3_%C7%D1%BF%EC%BA%D2%B0%ED%B1%E2.jpg"
+      ],
+      "homepage": "https://www.lotteria.com/",
+      "naver_map_url": "https://map.naver.com/p/entry/place/11825166",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/11825166/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대 음식점",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "11806991",
+      "name": "뚜레쥬르 익산원광대점",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "베이커리"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 892",
+      "address": "전북특별자치도 익산시 신동 763-2",
+      "phone": "063-851-9900",
+      "lat": 35.9637327,
+      "lng": 126.957662,
+      "distance_m": 635,
+      "business_status": "영업 중",
+      "business_status_detail": "23:30에 영업종료",
+      "business_hours": "202605170900~202605172330",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 8,
+      "place_review_count": 685,
+      "menu_exists": true,
+      "menu_info": "아메리카노 2,500 | 카페 라떼 3,000 | 카푸치노 3,000 | 카라멜 마끼아또 3,500 | 카페 모카 3,500 | 바닐라 라떼 3,500 | 망고 스무디 4,500 | 청포도 스무디 4,500 | 딸기 스무디 4,500 | 자몽 에이드 4,000 | 레몬 에이드 4,000 | 페퍼민트 티 3,000 | 애플캐모마일 4,300 | 캐모마일 티 3,000 | 잉글리쉬 블랙퍼스트 티 3,000 | 아이스애플코코캐모마일 4,500",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20250813_266/17550484266608gyBG_JPEG/%B6%D1%B7%B9%C1%EA%B8%A3_%B7%CE%B0%ED_%B3%D7%C0%CC%B9%F6.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20250813_266/17550484266608gyBG_JPEG/%B6%D1%B7%B9%C1%EA%B8%A3_%B7%CE%B0%ED_%B3%D7%C0%CC%B9%F6.jpg"
+      ],
+      "homepage": "http://www.tlj.co.kr/",
+      "naver_map_url": "https://map.naver.com/p/entry/place/11806991",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/11806991/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "37160189",
+      "name": "빽다방 원광대점",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "테이크아웃커피"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로4길 4 빽다방 원광대점",
+      "address": "전북특별자치도 익산시 신동 762-19 빽다방 원광대점",
+      "phone": "063-852-5089",
+      "lat": 35.9637135,
+      "lng": 126.9573673,
+      "distance_m": 637,
+      "business_status": "영업 중",
+      "business_status_detail": "21:50에 라스트오더",
+      "business_hours": "202605170900~202605172200",
+      "break_time": "",
+      "last_order": "202605172150",
+      "review_count": 32,
+      "place_review_count": 1807,
+      "menu_exists": true,
+      "menu_info": "앗!메리카노(ICED) 2,000 | 원조커피(ICED) 2,500 | 카페모카(ICED) 3,500 | 바닐라라떼(ICED) 3,500 | 빽's라떼(ICED) 3,000 | 달달연유라떼(ICED) 2,500 | 카라멜마끼아또(ICED) 3,500 | 크리미모카라떼(ICED) 3,800 | 밀크티(ICED) 3,500 | 완전초코(ICED) 3,500 | 녹차라떼(ICED) 3,500 | 레몬티(ICED) 3,500 | 자몽티(ICED) 3,500 | 청포도플라워 3,500 | 아이스미초 2,500 | 달콤아이스티 2,000 | 깔라만시에이드 3,000 | 노말한소프트(초콜렛/카라멜) 2,000 | 빽엔나(ICED) 3,500 | 옥수크림 2,500 | 호두크런치 3,000 | 사라다빵 2,500 | 소세지빵 2,500 | 계란사라다빵 3,500 | 완전딸기바나나(소프트) 4,000 | 완전초코바나나(소프트) 4,000 | 녹차빽스치노(소프트) 4,000 | 원조빽스치노(소프트) 3,500 | 피스타치오빽스치노(소프트) 5,000 | 민트초코빽스치노(소프트) 4,000 | 쿠키크런치빽스치노(소프트) 4,000 | 완전초코빽스치노(소프트) 4,000",
+      "thumbnail_url": "",
+      "thumbnail_urls": [],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/37160189",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/37160189/home",
+      "source_queries": [
+        "원광대학교 카페",
+        "원광대 카페"
+      ]
+    },
+    {
+      "id": "2035907064",
+      "name": "컴포즈커피 익산원광대점",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "카페"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 894",
+      "address": "전북특별자치도 익산시 신동 763-3",
+      "phone": "0507-2085-0457",
+      "lat": 35.9636695,
+      "lng": 126.9578794,
+      "distance_m": 643,
+      "business_status": "영업 중",
+      "business_status_detail": "22:00에 영업종료",
+      "business_hours": "202605170800~202605172200",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 4,
+      "place_review_count": 19,
+      "menu_exists": true,
+      "menu_info": "[패스오더전용] 100원 아메리카노 100 | 아메리카노 1,500",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20251105_275/17623274738486TqTq_JPEG/%B8%C5%C0%E5_%BF%DC%BA%CE_1.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20251105_275/17623274738486TqTq_JPEG/%B8%C5%C0%E5_%BF%DC%BA%CE_1.jpg",
+        "https://ldb-phinf.pstatic.net/20260113_255/1768281857865Xdjnp_PNG/%BE%F7%C3%BC%BB%E7%C1%F8.png",
+        "https://ldb-phinf.pstatic.net/20251105_224/1762327473862JaiPK_JPEG/%B8%C5%C0%E5_%BF%DC%BA%CE_2.jpg"
+      ],
+      "homepage": "https://100원커피이벤트-선착순주문하기.com",
+      "naver_map_url": "https://map.naver.com/p/entry/place/2035907064",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/2035907064/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1244744130",
+      "name": "파리바게뜨 익산원광대점",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "베이커리"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 896 (신동)",
+      "address": "전북특별자치도 익산시 신동 763-20",
+      "phone": "063-856-8207",
+      "lat": 35.9636427,
+      "lng": 126.9579714,
+      "distance_m": 647,
+      "business_status": "",
+      "business_status_detail": "",
+      "business_hours": "",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 0,
+      "place_review_count": 36,
+      "menu_exists": true,
+      "menu_info": "",
+      "thumbnail_url": "https://naverbooking-phinf.pstatic.net/20240104_67/1704329289984Vtr2D_PNG/image.png",
+      "thumbnail_urls": [
+        "https://naverbooking-phinf.pstatic.net/20240104_67/1704329289984Vtr2D_PNG/image.png"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1244744130",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1244744130/home",
+      "source_queries": [
+        "원광대학교 카페",
+        "원광대 카페"
+      ]
+    },
+    {
+      "id": "11489198",
+      "name": "배스킨라빈스 원광대",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "아이스크림"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 898",
+      "address": "전북특별자치도 익산시 신동 763-5",
+      "phone": "063-857-1534",
+      "lat": 35.9635919,
+      "lng": 126.9581432,
+      "distance_m": 654,
+      "business_status": "영업 중",
+      "business_status_detail": "23:00에 영업종료",
+      "business_hours": "202605171000~202605172300",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 14,
+      "place_review_count": 478,
+      "menu_exists": true,
+      "menu_info": "싱글레귤러 3,900 | 싱글킹 4,700 | 더블쥬니어 5,100 | 더블레귤러 7,300 | 파인트 9,800 | 쿼터 18,500 | 패밀리 26,000 | 하프갤론 31,500",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20250724_5/17533180775798X8cB_JPEG/%B3%D7%C0%CC%B9%F6_%B9%E8%BD%BA%C5%B2%B6%F3%BA%F3%BD%BA_%B7%CE%B0%ED.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20250724_5/17533180775798X8cB_JPEG/%B3%D7%C0%CC%B9%F6_%B9%E8%BD%BA%C5%B2%B6%F3%BA%F3%BD%BA_%B7%CE%B0%ED.jpg",
+        "https://ldb-phinf.pstatic.net/20200921_267/1600676012731fNA6c_PNG/image.png"
+      ],
+      "homepage": "https://blog.naver.com/brgirl31/",
+      "naver_map_url": "https://map.naver.com/p/entry/place/11489198",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/11489198/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1645361491",
+      "name": "아이라이크",
+      "type": "cafe",
+      "categories": [
+        "음식점",
+        "카페,디저트"
+      ],
+      "road_address": "전북특별자치도 익산시 인북로 410 2층 아이라이크카페",
+      "address": "전북특별자치도 익산시 신동 125 2층 아이라이크카페",
+      "phone": "0507-1337-6780",
+      "lat": 35.9645338,
+      "lng": 126.9640152,
+      "distance_m": 811,
+      "business_status": "영업 중",
+      "business_status_detail": "22:00에 영업종료",
+      "business_hours": "202605171200~202605172200",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 43,
+      "place_review_count": 341,
+      "menu_exists": true,
+      "menu_info": "아메리카노(HOT/ICE) 4,500 | 팥빙수 14,000 | 수박주스 6,500 | 젤라또 6,000 | 바닐라라떼 5,500 | 카페모카 5,500 | 카페라떼 5,000 | 카라멜마끼아또 5,500 | 아포가토 6,000 | 아인슈페너(only ICE) 6,000 | 썸머라떼(only ICE) 6,000 | 미숫가루라떼 5,500 | 초코라떼 5,500 | 녹차라떼 5,500 | 딸기라떼(only ICE) 6,500 | 고구마라떼 6,500 | 조리퐁스무디 6,500 | 망고스무디 6,500 | 밀크쉐이크 6,500 | 요거트스무디(블루베리,피치,딸기) 6,500 | 루이보스 5,500 | 레몬그라스 5,500 | 얼그레이 5,500 | 카모마일 5,500 | 페퍼민트 5,500 | 국화차 5,500 | 매실차 5,500 | 자몽블랙티 5,500 | 아이스티(only ICE) 4,500 | 생강차(only HOT) 6,500 | 대추차(only HOT) 6,500 | 유자차(only HOT) 6,500",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20240829_227/1724899665882nXRaB_JPEG/KakaoTalk_20240822_145354978_04.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20240829_227/1724899665882nXRaB_JPEG/KakaoTalk_20240822_145354978_04.jpg",
+        "https://ldb-phinf.pstatic.net/20240829_137/1724899665971XzTck_JPEG/KakaoTalk_20240822_145354978_05.jpg",
+        "https://ldb-phinf.pstatic.net/20240829_10/17248996661237gP3O_JPEG/KakaoTalk_20240822_145354978_07.jpg"
+      ],
+      "homepage": "https://www.instagram.com/ilike_cafe",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1645361491",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1645361491/home",
+      "source_queries": [
+        "원광대학교 카페",
+        "원광대 카페"
+      ]
+    },
+    {
+      "id": "2077989219",
+      "name": "뽀빠이냉면",
+      "type": "restaurant",
+      "categories": [
+        "한식",
+        "냉면"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 924-1 1층",
+      "address": "전북특별자치도 익산시 신동 765-13 1층",
+      "phone": "063-855-1785",
+      "lat": 35.9625909,
+      "lng": 126.9610383,
+      "distance_m": 831,
+      "business_status": "영업 중",
+      "business_status_detail": "20:30에 라스트오더",
+      "business_hours": "202605171000~202605172100",
+      "break_time": "",
+      "last_order": "202605172030",
+      "review_count": 2,
+      "place_review_count": 144,
+      "menu_exists": true,
+      "menu_info": "물냉면 11,000",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20260402_108/1775131780682HCht3_JPEG/IMG_2321.jpeg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20260402_108/1775131780682HCht3_JPEG/IMG_2321.jpeg",
+        "https://ldb-phinf.pstatic.net/20260402_76/1775131780819RLB3o_JPEG/IMG_2326.jpeg",
+        "https://ldb-phinf.pstatic.net/20260402_94/1775131780681hJMC6_JPEG/IMG_2327.jpeg"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/2077989219",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/2077989219/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대 음식점",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1259760517",
+      "name": "한뚝수육국밥 원광대점",
+      "type": "restaurant",
+      "categories": [
+        "한식",
+        "국밥"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 928",
+      "address": "전북특별자치도 익산시 신동 765-17",
+      "phone": "0507-1327-9891",
+      "lat": 35.9626592,
+      "lng": 126.9612563,
+      "distance_m": 832,
+      "business_status": "오늘 휴무",
+      "business_status_detail": "매주 일요일 휴무",
+      "business_hours": "",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 31,
+      "place_review_count": 298,
+      "menu_exists": true,
+      "menu_info": "수육국밥 8,000 | 순대국밥 8,000 | 토종순대(중) 10,000 | 수육정식 12,000 | 수육철판,순대철판 32,000",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20200828_219/1598601474627TKyR8_PNG/JBc4CdnDOH_MZWOko5Pn0GSV.png",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20200828_219/1598601474627TKyR8_PNG/JBc4CdnDOH_MZWOko5Pn0GSV.png",
+        "https://ldb-phinf.pstatic.net/20200831_279/1598852519791h6cN5_JPEG/dXSvx5BrCGoeqWELy65lWk-B.jpg",
+        "https://ldb-phinf.pstatic.net/20200831_265/1598852524149AhjVa_JPEG/BUG5-HV4KxMTh2Lc1VblY1lD.jpg"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1259760517",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1259760517/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대 음식점",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "580822525",
+      "name": "커피395",
+      "type": "cafe",
+      "categories": [
+        "음식점",
+        "카페,디저트"
+      ],
+      "road_address": "전북특별자치도 익산시 인북로 395 1층",
+      "address": "전북특별자치도 익산시 신동 120-1 1층",
+      "phone": "063-852-7331",
+      "lat": 35.9632706,
+      "lng": 126.9626042,
+      "distance_m": 833,
+      "business_status": "오늘 휴무",
+      "business_status_detail": "매주 일요일 휴무",
+      "business_hours": "",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 19,
+      "place_review_count": 53,
+      "menu_exists": true,
+      "menu_info": "아메리카노 3,500 | 카페라떼 4,000 | 카푸치노 4,000 | 바닐라라떼 4,500 | 카페모카 4,500 | 에스프레소 3,000",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20230518_22/1684384568594VEonO_JPEG/IMG_4807.jpeg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20230518_22/1684384568594VEonO_JPEG/IMG_4807.jpeg",
+        "https://ldb-phinf.pstatic.net/20230518_242/1684384578437M6szD_JPEG/IMG_4806.jpeg",
+        "https://ldb-phinf.pstatic.net/20230515_241/1684114200619n0QMj_JPEG/IMG_4797.jpeg"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/580822525",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/580822525/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1029598477",
+      "name": "카페 이리당",
+      "type": "cafe",
+      "categories": [
+        "양식",
+        "샌드위치"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 931",
+      "address": "전북특별자치도 익산시 신동 120-15",
+      "phone": "0507-1334-1210",
+      "lat": 35.9628602,
+      "lng": 126.961886,
+      "distance_m": 838,
+      "business_status": "영업 중",
+      "business_status_detail": "18:00에 영업종료",
+      "business_hours": "202605171000~202605171800",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 3940,
+      "place_review_count": 2140,
+      "menu_exists": true,
+      "menu_info": "[예약必]과일/떡/김밥/다과/샌드위치 변동가격(업주문의) | 단체음료주문 가능 변동가격(업주문의) | 햄치즈/에그/단호박/바질 샌드위치 변동가격(업주문의) | 치킨/핫닭/뚱'떡갈비/게살 샌드위치 변동가격(업주문의) | 버터 게살에그마요 (한컵/단체만가능) 변동가격(업주문의) | 햄치즈 토스트 (4등분/매장판매) 5,600 | 치킨 샌드위치 8,500 | 에그 샌드위치 7,300 | 단호박 샌드위치 7,300 | 햄치즈 샌드위치 7,000 | 게살 샌드위치 8,900 | 핫닭 샌드위치 8,500 | 바질 샌드위치 7,800 | 뚱'떡갈비 샌드위치 8,700 | 게살에그마요 (단체주문만가능) 변동가격(업주문의) | 돈까스 샌드위치 5,200 | 미니 떡갈비 샌드위치 5,200 | 하객 도시락 변동가격(업주문의) | 웨딩 도시락 변동가격(업주문의) | 특대 도시락 변동가격(업주문의) | 3종 도시락 변동가격(업주문의) | 샌드위치+과일 2칸 도시락 변동가격(업주문의) | 샌드위치+과일도시락 (소&대) 변동가격(업주문의) | 샌드위치+비스켓+음료 (인기) 변동가격(업주문의) | 샌드위치+다과+과일 변동가격(업주문의) | 샌드위치+다과+음료 변동가격(업주문의) | 김밥 도시락 변동가격(업주문의) | 떡 도시락 변동가격(업주문의) | 다과 도시락 변동가격(업주문의) | 닭강정 도시락 변동가격(업주문의) | 과일 도시락 변동가격(업주문의) | 컵과일 변동가격(업주문의) | 캔시머 음료/캔실링/레터링 변동가격(업주문의)",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20210629_78/1624893575882iVFDW_JPEG/27pt_B-eCZPBym2105STQAQx.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20210629_78/1624893575882iVFDW_JPEG/27pt_B-eCZPBym2105STQAQx.jpg",
+        "https://ldb-phinf.pstatic.net/20240329_81/17116785013375vSEi_JPEG/1706056460969.jpg",
+        "https://ldb-phinf.pstatic.net/20240329_213/1711678501115cx7eT_JPEG/1697247382098.jpg"
+      ],
+      "homepage": "https://blog.naver.com/14281210",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1029598477",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1029598477/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대 음식점",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "2041824355",
+      "name": "달인왕꽈배기",
+      "type": "cafe",
+      "categories": [
+        "카페,디저트",
+        "베이커리"
+      ],
+      "road_address": "전북특별자치도 익산시 무왕로 935 1층",
+      "address": "전북특별자치도 익산시 신동 120-26 1층",
+      "phone": "0507-1305-8909",
+      "lat": 35.9627275,
+      "lng": 126.9622421,
+      "distance_m": 867,
+      "business_status": "영업 중",
+      "business_status_detail": "20:00에 영업종료",
+      "business_hours": "202605170900~202605172000",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 35,
+      "place_review_count": 389,
+      "menu_exists": true,
+      "menu_info": "A코스 16,000 | 땅콩빵 40개 5,000 | B코스 13,000 | C코스 10,000 | 땅콩빵 90개 10,000 | 생과일쥬스 4,000",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20250918_233/1758169099678Ej7eJ_JPEG/1758169054482164879279089943203.jpg",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20250918_233/1758169099678Ej7eJ_JPEG/1758169054482164879279089943203.jpg"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/2041824355",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/2041824355/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대학교 카페",
+        "원광대 음식점",
+        "원광대 카페",
+        "원광대 맛집"
+      ]
+    },
+    {
+      "id": "1813080387",
+      "name": "알엠카페",
+      "type": "cafe",
+      "categories": [
+        "음식점",
+        "카페,디저트"
+      ],
+      "road_address": "전북특별자치도 익산시 인북로 390 1층",
+      "address": "전북특별자치도 익산시 신동 120-37 1층",
+      "phone": "0507-1338-0220",
+      "lat": 35.9627453,
+      "lng": 126.9633552,
+      "distance_m": 920,
+      "business_status": "오늘 휴무",
+      "business_status_detail": "매주 일요일 휴무",
+      "business_hours": "",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 44,
+      "place_review_count": 362,
+      "menu_exists": true,
+      "menu_info": "토피넛라떼 5,500 | 바닐라라떼 5,500 | 에스프레소 3,000 | 바나나브레드 4,000 | 레몬파운트케이크 3,500 | 쿠키 2,500 | The Bomb 더밤 5,500 | 에이드(레몬,자몽,자두) 5,000 | 초코라떼 5,000 | 과일티(레몬,자몽,오미자) 5,000 | 티(페퍼민트,캐모마일,얼그레이) 4,000 | 햄치즈에그머핀 5,000 | 아메리카노 4,000 | 복숭아아이스티 4,000 | 콜드브루토피라떼 6,000 | 콜드브루오트라떼 6,000 | 콜드브루라떼 5,000 | 콜드브루 4,000 | 카페라떼 5,000",
+      "thumbnail_url": "https://naverbooking-phinf.pstatic.net/20241122_258/1732255963732UPhUM_JPEG/image.jpg",
+      "thumbnail_urls": [
+        "https://naverbooking-phinf.pstatic.net/20241122_258/1732255963732UPhUM_JPEG/image.jpg",
+        "https://naverbooking-phinf.pstatic.net/20241122_106/1732255963854ShxPp_JPEG/image.jpg"
+      ],
+      "homepage": "https://www.instagram.com/rmcafe_0801",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1813080387",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1813080387/home",
+      "source_queries": [
+        "원광대학교 카페",
+        "원광대 카페"
+      ]
+    },
+    {
+      "id": "1051312876",
+      "name": "등촌샤브칼국수 익산점",
+      "type": "restaurant",
+      "categories": [
+        "한식",
+        "칼국수,만두"
+      ],
+      "road_address": "전북특별자치도 익산시 인북로 382 선우빌딩 2층",
+      "address": "전북특별자치도 익산시 신동 768-1 선우빌딩 2층",
+      "phone": "0507-1305-3067",
+      "lat": 35.9619776,
+      "lng": 126.9628529,
+      "distance_m": 966,
+      "business_status": "영업 중",
+      "business_status_detail": "21:30에 영업종료",
+      "business_hours": "202605171100~202605172130",
+      "break_time": "",
+      "last_order": "",
+      "review_count": 316,
+      "place_review_count": 2452,
+      "menu_exists": true,
+      "menu_info": "등촌'부채살'샤브칼국수 SET 33,000 | 등촌'목심'샤브칼국수 SET 30,000 | 얼큰하고 시원한 '등촌칼국수SET' 11,000 | 갓 '부채살' 샤브용소고기(200g) 13,000 | '목심' 샤브용 소고기(200g) 11,000 | 명품 수제 '소고기 육전' 13,000 | 살얼음 동동 '냉(冷)김치말이국수' 8,000 | 느린마을막걸리(오리지널) 7,000 | 제주우도땅콩 막걸리 7,000 | 물만두사리(냉동사리) 5,000 | 야채 추가 5,000 | 볶음밥 추가(1인분) 3,000 | 볶음밥 추가(2인분) 5,000 | 칼국수 사리면 추가 3,000 | 수제비 사리 3,000",
+      "thumbnail_url": "https://ldb-phinf.pstatic.net/20250621_67/1750434640588qxC8P_PNG/%C1%A6%B8%F1%C0%BB_%C0%D4%B7%C2%C7%CF%BC%BC%BF%E4_%2880%29.png",
+      "thumbnail_urls": [
+        "https://ldb-phinf.pstatic.net/20250621_67/1750434640588qxC8P_PNG/%C1%A6%B8%F1%C0%BB_%C0%D4%B7%C2%C7%CF%BC%BC%BF%E4_%2880%29.png",
+        "https://ldb-phinf.pstatic.net/20260125_73/1769275933754p7Ep4_PNG/%C1%A6%B8%F1%C0%BB_%C0%D4%B7%C2%C7%CF%BC%BC%BF%E4_1.png",
+        "https://ldb-phinf.pstatic.net/20260125_14/1769275933816MBwkF_PNG/%C1%A6%B8%F1%C0%BB_%C0%D4%B7%C2%C7%CF%BC%BC%BF%E4_2.png"
+      ],
+      "homepage": "",
+      "naver_map_url": "https://map.naver.com/p/entry/place/1051312876",
+      "mobile_place_url": "https://m.place.naver.com/restaurant/1051312876/home",
+      "source_queries": [
+        "원광대학교 음식점",
+        "원광대 음식점",
+        "원광대 맛집"
+      ]
+    }
+  ]
+}
